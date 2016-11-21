@@ -1,0 +1,24 @@
+{
+  "bucket": "source",
+  "sizes": [
+    {
+      "name" : "small",
+      "size": "200x100"
+    },
+    {
+      "name": "medium",
+      "size": "600x600^",
+      "gravity": "Center",
+      "crop": "600x600"
+    },
+    {
+      "name": "large",
+      "size": 600
+    },
+    {
+      "name": "xlarge",
+      "size": 900,
+      "quality": 90
+    }
+  ]
+}
